@@ -1,4 +1,4 @@
-baseURL                          = "http://example.com/"  # Your domain name. Must end with "/"
+baseURL                          = "http://www.opinionsdataandscience.com/"  # Your domain name. Must end with "/"
 theme = "hugo-theme-introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
