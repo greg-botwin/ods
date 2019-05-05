@@ -1,4 +1,4 @@
-baseurl = "https://jolly-blackwell-ef91a4.netlify.com/"
+baseurl = "jolly-blackwell-ef91a4.netlify.com/"
 languageCode = "en-us"
 title = "A Hugo website"
 theme = "hugo-lithium"
