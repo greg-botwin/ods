@@ -87,7 +87,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "Opinions, Data, and Science"
         [languages.en.params]
             description  = "Personal website of Greg Botwin"   # Max 160 characters show in search results
             footerText   = "&copy; 2019 Gregory Botwin. [Introduction](https://github.com/victoriadotdev/hugo-theme-introduction/) theme for [Hugo](https://gohugo.io/) powered by [blogdown](https://github.com/rstudio/blogdown/) "                      # Text to override default footer text (markdown allowed)
