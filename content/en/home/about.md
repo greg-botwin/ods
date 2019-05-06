@@ -4,14 +4,10 @@ image: "profile.jpg"
 weight: 8
 ---
 
-This is **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io).
+## Website
+Hi, I am Greg. Thank you for visiting my website! I created this website to serve as a repository where I can store some of the personal projects and pieces I am working on. I hope you find some of them interesting or useful.
 
-### Features
+## Me
+I work as a staff researcher in the [Translational Genomics Group](https://www.cedars-sinai.edu/Research/Research-Labs/McGovern-Lab/) at Cedars-Sinai. Professionally, I spend most of my time processing, cleaning, and analyzing molecular and healthcare data to better understand the causes and courses of Inflammatory Bowel Disease (IBD). If you would like to learn more about my professional experience please check out my [Resume](/resume/)
 
-* Responsive display on any size screen
-* Light and Dark themes right out of the box
-* Multilingual - supports side-by-side content in multiple languages
-* Any number of custom index page sections from Markdown files
-* _Projects_ section with any number of projects: highly configurable as a photo gallery, modals, or external links
-* _Blog_ section with optional _Latest Post_, on the main page or as a separate section
-* Styled Markdown throughout with support for Hugo's syntax highlighting
+When not studying IBD, I prefer to be spending my time with my fiancée [Jen](https://www.duggiesbakes.com/about/) and watching broadway shows. If you are interested in what we have seen recently and poorly written reviews, please check out my [Blog](/blog/)!

@@ -1,6 +1,4 @@
 ---
-title: "Hi, I'm Introduction"
+title: "Opinions, Data, and Science"
 headless: true
 ---
-
-I'm a theme for Hugo

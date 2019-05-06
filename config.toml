@@ -57,14 +57,24 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 # If you don't want to use the default menu, you can define one by yourself
-# [[menu.main]]
-#     name    = "Home"
-#     url     = "/"
-#     weight  = 0
-# [[menu.main]]
-#     name    = "Blog"
-#     url     = "/blog/"
-#     weight  = 1
+ [[menu.main]]
+     name    = "Home"
+     url     = "/"
+     weight  = 1
+ [[menu.main]]
+     name    = "Blog"
+     url     = "/blog/"
+     weight  = 2
+ [[menu.main]]
+     name    = "Resume"
+     url     = "/resume/"
+     weight  = 3
+ [[menu.main]]
+     name    = "Contact"
+     url     = "/#contact"
+     weight  = 4
+     
+     
 
 # We only use tag as a taxonomies
 # You can add more by yourself
@@ -79,6 +89,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         weight           = 0
         title            = "Introduction"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
-            # footerText   = ""                      # Text to override default footer text (markdown allowed)
+            description  = "Personal website of Greg Botwin"   # Max 160 characters show in search results
+            footerText   = "&copy; 2019 Gregory Botwin. [Introduction](https://github.com/victoriadotdev/hugo-theme-introduction/) theme for [Hugo](https://gohugo.io/) powered by [blogdown](https://github.com/rstudio/blogdown/) "                      # Text to override default footer text (markdown allowed)
 
