@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Resume
 weight: 10
 ---
 
