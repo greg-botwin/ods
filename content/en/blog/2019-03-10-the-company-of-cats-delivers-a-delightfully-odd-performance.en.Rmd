@@ -1,6 +1,6 @@
 ---
 title: "The Company of Cats Delivers a Delightfully Odd Performance"
-date: 2019-03-10T13:58:22-07:00
+date: "2019-03-10T13:58:22-07:00"
 draft: true
 author: "Greg Botwin"
 ---
