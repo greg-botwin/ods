@@ -1,13 +1,12 @@
 ---
-title: "The Company of Cats Delivers a Delightfully Odd Performance"
 date: "2019-03-10T13:58:22-07:00"
-draft: true
-author: "Greg Botwin"
+tags:
+- broadway
+- pantages
+- cats
+title: The Company of Cats Delivers a Delightfully Odd Performance
+author: Greg Botwin
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 Cats, whose touring company recently opened up at the Pantages Theatre the 27th of February, is a visually entertaining and acoustically rich performance of the now 37 year old broadway classic. The two hour and twenty minute show, which feels just as long due to the repetitive introduction of an innumerable number of cats, is largely driven by the stunningly choreographed dancing of the professional company. 
 
