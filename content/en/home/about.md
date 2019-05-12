@@ -5,7 +5,7 @@ weight: 8
 ---
 
 ## Website
-Hi, I am Greg. Thank you for visiting my website! I created this website to serve as a repository where I can store some of the personal projects and pieces I am working on. I hope you find some of them interesting or useful.
+Hi, I'm Greg. Thank you for visiting my website! I created this website to serve as a repository where I can store some of the personal projects and pieces I am working on. I hope you find some of them interesting or useful.
 
 ## Me
 I work as a staff researcher in the [Translational Genomics Group](https://www.cedars-sinai.edu/Research/Research-Labs/McGovern-Lab/) at Cedars-Sinai. Professionally, I spend most of my time processing, cleaning, and analyzing molecular and healthcare data to better understand the causes and courses of Inflammatory Bowel Disease (IBD). If you would like to learn more about my professional experience please check out my [Resume](/resume/)
